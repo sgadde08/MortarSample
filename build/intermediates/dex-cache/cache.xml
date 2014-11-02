@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/sandeepgadde/AndroidStudioTestProjects/MortarSample/app/build/intermediates/pre-dexed/debug/javax.inject-1-2a0ec7b0fb103e95a457e0b33a94d27b60653cda.jar"
+        jar="/Users/sandeepgadde/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38"/>
+    <item
+        dex="/Users/sandeepgadde/AndroidStudioTestProjects/MortarSample/app/build/intermediates/pre-dexed/debug/mortar-0.16-1c98e1da2a1bd803b8606a105558cb9ddfb83d68.jar"
+        jar="/Users/sandeepgadde/.gradle/caches/modules-2/files-2.1/com.squareup.mortar/mortar/0.16/dd9e7052ee528f7fe43486649d7a3eb2d798607/mortar-0.16.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="0dd9e7052ee528f7fe43486649d7a3eb2d798607"/>
+    <item
+        dex="/Users/sandeepgadde/AndroidStudioTestProjects/MortarSample/app/build/intermediates/pre-dexed/debug/dagger-1.2.1-33c8573ef4ceabb67f08e58123e0a905117c6874.jar"
+        jar="/Users/sandeepgadde/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.1/78f96ef00fceee95802930944b1fc4e0e1f9aacc/dagger-1.2.1.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="78f96ef00fceee95802930944b1fc4e0e1f9aacc"/>
+    <item
+        dex="/Users/sandeepgadde/AndroidStudioTestProjects/MortarSample/app/build/intermediates/pre-dexed/debug/butterknife-6.0.0-b83c40f5a3ccf4f99ff9f93ac2dad85125fcfcfa.jar"
+        jar="/Users/sandeepgadde/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123"/>
+
+</pre-dex-items>
